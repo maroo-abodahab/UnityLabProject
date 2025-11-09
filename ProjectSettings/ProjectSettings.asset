@@ -622,11 +622,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: e6363b6d-ee45-4d8b-a04f-5af929eac7e9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: UnityLabProject
+  organizationId: marwan_motfgrt
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
